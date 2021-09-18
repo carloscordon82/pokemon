@@ -29,6 +29,7 @@ body {
 }
 
 .pok {
-  width: 280px;
-  height: 280px;
+  width: 180px;
+  height: 180px;
+  margin: 60px;
 }
